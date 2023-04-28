@@ -1,5 +1,5 @@
 Hello World! (WAR-style)
-To try jenkins
+To try jenkins-do SCM
 my second test
 ===============
 
